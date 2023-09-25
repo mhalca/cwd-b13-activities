@@ -1,0 +1,36 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 200;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.stock-link{
+    font-weight: 120;
+    font-size: 13px;
+    margin-left: 15px;
+    position: sticky;
+    top: 0;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
+.stock-img{
+    margin: 30px 0px 10px;
+    margin-left: 15px;
+    position: sticky;
+    top: 0;
+}
+.bordered {
+    border: 1px solid white;
+}
+.custom-padding{
+    padding: 10px !important;
+}
+
+.language-markup {
+    display: inline-block;
+    background-color: #ffffff;
+    border: 1px solid #999;
+    border-radius: 4px;
+}
